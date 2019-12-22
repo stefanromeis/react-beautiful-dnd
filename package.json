@@ -88,7 +88,7 @@
     "babel-plugin-emotion": "^10.0.27",
     "cross-env": "^6.0.3",
     "cypress": "^3.5.0",
-    "emotion-theming": "^10.0.19",
+    "emotion-theming": "^10.0.27",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "eslint": "6.5.1",
